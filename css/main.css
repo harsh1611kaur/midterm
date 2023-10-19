@@ -1,0 +1,67 @@
+/* Harshdeep Kaur */
+/* 8912971 */
+
+body{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+.selector{
+    margin: 10px;
+    padding: 10px;
+}
+h1,
+h2 {
+    color:red;
+    font-size: 18px;
+}
+main {
+    float: left;
+    width: 65%;
+    height: 70vh;
+}
+aside{
+    float: right;
+    width: 65%;
+    height: 70vh;
+}
+.selector_image{
+    border: 2px solid green;
+    width: 90%;
+    height: 80%;
+}
+figure{
+background:yellow;
+width: 45%;
+height: 60%;
+margin: auto;
+padding: 10px;
+float: left;
+}
+figure{
+    background-color:yellow;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+    float: right; 
+}
+figcaption{
+    font-weight: bold;
+   font-size: 18px;
+   color:blue;
+   padding: 15px;
+}
+ul > li > a > {
+    text-decoration: none;
+    color:blueviolet;
+}
+aside a:hover{
+    color:red;
+}
+header{
+    background-color: pink;
+}
+footer:{
+    background-color: pink;
+}
